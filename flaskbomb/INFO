@@ -1,0 +1,5 @@
+code taken from https://github.com/khast3x/flaskbomb.git
+
+for setup:
+dd if=/dev/zero of=cake.gzip bs=1M count=1000
+dd if=/dev/zero of=cake5.gzip bs=1M count=5000
